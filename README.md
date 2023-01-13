@@ -11,9 +11,7 @@
 
 - :telescope: I’m currently working on Front-End development
 
-- :seedling: I’m currently learning Javascript
-
-- :zap: 2022 Goals: I want to complete at least one project with React before the end of year.
+- :seedling: I’m currently learning Javascript & ReactJS
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-stargazer741-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/stargazer741)
   
