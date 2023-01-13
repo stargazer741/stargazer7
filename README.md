@@ -24,7 +24,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front-End development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript & ReactJS
 - 📫 How to reach me: twitter.com/stargazer741
-- ⚡ 2022 Goals: I want to complete at least one project with React before the end of year.
 -->
